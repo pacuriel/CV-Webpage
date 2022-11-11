@@ -1,2 +1,2 @@
 # CV-Webpage
-Static single-webpage CV
+Static single-webpage CV: https://pacuriel.github.io/CV-Webpage
